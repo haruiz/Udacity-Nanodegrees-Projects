@@ -1,0 +1,21 @@
+[submodule "Dog-Breed-Classifier"]
+	path = Dog-Breed-Classifier
+	url = https://github.com/haruiz/Dog-Breed-Classifier.git
+[submodule "TV-scripts-generation"]
+	path = TV-scripts-generation
+	url = https://github.com/haruiz/TV-scripts-generation.git
+[submodule "face-generation"]
+	path = face-generation
+	url = https://github.com/haruiz/face-generation.git
+[submodule "AWS-SageMaker-project"]
+	path = AWS-SageMaker-project
+	url = https://github.com/haruiz/AWS-SageMaker-project.git
+[submodule "People-Counter-Udacity"]
+	path = People-Counter-Udacity
+	url = https://github.com/haruiz/People-Counter-Udacity
+[submodule "Smart-Queuing-Udacity"]
+	path = Smart-Queuing-Udacity
+	url = https://github.com/haruiz/Smart-Queuing-Udacity.git
+[submodule "Computer-Pointer-Controller"]
+	path = Computer-Pointer-Controller
+	url = https://github.com/haruiz/Computer-Pointer-Controller.git
